@@ -1,6 +1,6 @@
 {
     "name": "dynamohuang/amazon",
-    "description": "third part amazon info library",
+    "description": "Third party Amazon Product info library, By php website crawler and without AWS SDK",
     "type": "library",
     "version":"1.0.0",
     "require": {
