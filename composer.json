@@ -2,7 +2,7 @@
     "name": "dynamohuang/amazon",
     "description": "Third party Amazon Product info library, By php website crawler and without AWS SDK",
     "type": "library",
-    "version":"1.0.1",
+    "version":"1.0.2",
     "require": {
         "php": ">=7.0.0",
         "guzzlehttp/guzzle": "^6.3",
