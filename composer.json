@@ -22,6 +22,7 @@
             "email": "huangdingzhi@foxmail.com"
         }
     ],
+    "minimum-stability": "stable",
     "require-dev": {
         "phpunit/phpunit": "^6.5"
     }
