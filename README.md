@@ -1,3 +1,7 @@
-## third part amazon info library
-
-phpunit tests/CommonInfoTest 
+# Amazon info tools
+## description
+Third party Amazon Product info library, By php website crawler and without AWS SDK
+## install
+composer require dynamohuang/amazon
+## quick start
+$info = \dynamohuang\Amazon\CommonInfo::getInstance()->getProductInfoByAsin('B0093IHZQW');
