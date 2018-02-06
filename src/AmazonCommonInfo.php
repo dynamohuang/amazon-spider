@@ -12,7 +12,7 @@ Use Predis\Client as Redis;
 
 
 define('MAX_FILE_SIZE', 60000000);
-class CommonInfo
+class AmazonCommonInfo
 {
 
     static protected $price_index = array('priceblock_dealprice', 'riceblock_saleprice', 'priceblock_ourprice');
