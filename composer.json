@@ -2,6 +2,7 @@
     "name": "dynamohuang/amazon",
     "description": "third part amazon info library",
     "type": "library",
+    "version":"1.0.0",
     "require": {
         "php": ">=7.0.0",
         "guzzlehttp/guzzle": "^6.3",
@@ -21,7 +22,6 @@
             "email": "huangdingzhi@foxmail.com"
         }
     ],
-    "minimum-stability": "beta",
     "require-dev": {
         "phpunit/phpunit": "^6.5"
     }
