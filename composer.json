@@ -1,6 +1,6 @@
 {
     "name": "dynamohuang/amazon-spider",
-    "description": "Third party Amazon Product info library, By php website crawler and without AWS SDK",
+    "description": "Third party Amazon product Info service, By php website crawler and without AWS SDK",
     "type": "library",
     "version":"1.0.2",
     "require": {
