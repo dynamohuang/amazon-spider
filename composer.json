@@ -10,10 +10,10 @@
         "predis/predis": "^1.1"
     },
     "autoload": {
-        "psr-4": { "Amazon\\": "src/" }
+        "psr-4": { "AmazonSpider\\": "src/" }
     },
     "autoload-dev": {
-        "psr-4": { "Amazon\\Tests\\": "tests/" }
+        "psr-4": { "AmazonSpider\\Tests\\": "tests/" }
     },
     "license": "MIT",
     "authors": [
