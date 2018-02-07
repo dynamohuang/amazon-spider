@@ -3,7 +3,7 @@
 /*
  * amazon工具类
  */
-namespace Amazon;
+namespace AmazonSpider;
 
 use GuzzleHttp\Client;
 use Sunra\PhpSimple\HtmlDomParser;

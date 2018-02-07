@@ -1,7 +1,7 @@
 <?php
 require './vendor/autoload.php';
 use PHPUnit\Framework\TestCase;
-use Amazon\AmazonCommonInfo;
+use AmazonSpider\AmazonCommonInfo;
 class CommonInfoTest extends TestCase
 {
     public function testGetProductInfoByAsin()

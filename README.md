@@ -4,4 +4,4 @@ Third party Amazon Product info library, By php website crawler and without AWS 
 ## install
 composer require dynamohuang/amazon
 ## quick start
-$info = \dynamohuang\Amazon\AmazonCommonInfo::getInstance()->getProductInfoByAsin('B0093IHZQW');
+$info = \dynamohuang\AmazonSpider\AmazonCommonInfo::getInstance()->getProductInfoByAsin('B0093IHZQW');
