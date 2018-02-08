@@ -2,7 +2,7 @@
     "name": "dynamohuang/amazon-spider",
     "description": "Third party Amazon product Info service, By php website crawler and without AWS SDK",
     "type": "library",
-    "version":"1.1.2",
+    "version":"1.1.6",
     "require": {
         "php": ">=7.0.0",
         "guzzlehttp/guzzle": "^6.3",
@@ -10,7 +10,7 @@
         "predis/predis": "^1.1"
     },
     "autoload": {
-        "psr-4": { "AmazonSpider\\": "src/" }
+        "psr-4": { "DynamoHuang\\AmazonSpider\\": "src/" }
     },
     "autoload-dev": {
         "psr-4": { "AmazonSpider\\Tests\\": "tests/" }

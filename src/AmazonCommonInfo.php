@@ -3,7 +3,7 @@
 /*
  * amazon工具类
  */
-namespace AmazonSpider;
+namespace DynamoHuang\AmazonSpider;
 
 use GuzzleHttp\Client;
 use Sunra\PhpSimple\HtmlDomParser;
