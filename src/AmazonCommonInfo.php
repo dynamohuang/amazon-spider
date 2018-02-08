@@ -11,7 +11,7 @@ use GuzzleHttp\Exception\RequestException;
 Use Predis\Client as Redis;
 
 
-if(!define('MAX_FILE_SIZE')){
+if(!defined('MAX_FILE_SIZE')){
     define('MAX_FILE_SIZE', 60000000);
 }
 
