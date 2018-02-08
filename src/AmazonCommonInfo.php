@@ -11,7 +11,10 @@ use GuzzleHttp\Exception\RequestException;
 Use Predis\Client as Redis;
 
 
-define('MAX_FILE_SIZE', 60000000);
+if(!define('MAX_FILE_SIZE')){
+    define('MAX_FILE_SIZE', 60000000);
+}
+
 class AmazonCommonInfo
 {
 
